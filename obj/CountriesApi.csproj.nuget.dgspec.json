@@ -1,28 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\itsik.edri\\Desktop\\clalit\\CountriesApi\\CountriesApi.csproj": {}
+    "C:\\Users\\sales\\gitRepo\\clalitCountriesAPI\\CountriesApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\itsik.edri\\Desktop\\clalit\\CountriesApi\\CountriesApi.csproj": {
+    "C:\\Users\\sales\\gitRepo\\clalitCountriesAPI\\CountriesApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\itsik.edri\\Desktop\\clalit\\CountriesApi\\CountriesApi.csproj",
+        "projectUniqueName": "C:\\Users\\sales\\gitRepo\\clalitCountriesAPI\\CountriesApi.csproj",
         "projectName": "CountriesApi",
-        "projectPath": "C:\\Users\\itsik.edri\\Desktop\\clalit\\CountriesApi\\CountriesApi.csproj",
-        "packagesPath": "C:\\Users\\itsik.edri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\itsik.edri\\Desktop\\clalit\\CountriesApi\\obj\\",
+        "projectPath": "C:\\Users\\sales\\gitRepo\\clalitCountriesAPI\\CountriesApi.csproj",
+        "packagesPath": "C:\\Users\\sales\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sales\\gitRepo\\clalitCountriesAPI\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\itsik.edri\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\sales\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "http://172.30.106.14/nuget/": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -68,7 +68,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
         }
       }
     }
